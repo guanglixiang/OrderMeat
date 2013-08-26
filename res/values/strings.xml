@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrderMeat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="manageorder">ManageOrder</string>
+ 	<string name="disconnected">未连接</string>
+ 	<string name="connected">已连接</string>
+    <string name="start">开始</string>
+ 	<string name="order">预订</string>
+ 	<string name="check">清点</string>
+    <string name="storaged">入库</string>
+ 	<string name="sign">签到</string>
+</resources>

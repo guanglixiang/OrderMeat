@@ -1,0 +1,20 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/checkboxlayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+ 	android:layout_alignParentBottom="true"
+   	android:focusable="false"
+    android:background="#FF0033"
+    >
+    <CheckBox
+     	android:id="@+id/checkbox"
+     	android:layout_width="wrap_content"
+     	android:layout_height="wrap_content"
+     	android:gravity="center"
+ 		android:clickable="false"  
+        android:focusable="false"  
+        android:focusableInTouchMode="false"  
+        android:button="@null"
+        />
+</LinearLayout>
